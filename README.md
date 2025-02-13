@@ -18,5 +18,6 @@ result,view voting statistics. </li>
   <li> At the end of election all data will be stored in CSV files.</li>
 </ul>
 
-[Read the full document](ProjectReport.pdf)
+[Read the full document](ProjectReport.pdf) 
+
 Output images are also in the above document.
