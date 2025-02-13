@@ -19,3 +19,4 @@ result,view voting statistics. </li>
 </ul>
 
 [Read the full document](ProjectReport.pdf)
+Output images are also in the above document.
